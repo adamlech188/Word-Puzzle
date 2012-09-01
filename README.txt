@@ -1,0 +1,2 @@
+ This program creates a WordPuzzle class which will manipulate string and arraylists of integers.
+ 

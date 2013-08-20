@@ -30,7 +30,6 @@ class WordPuzzle {
    private:
      vector<string> split(string,char); 
      string message; 
-	
 	 vector<vector<vector<int>>> puzzle; 
 	 string trim(string); 
 	 template<class T> 

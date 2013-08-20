@@ -7,7 +7,6 @@ using std::endl;
 using std:: vector;
 
 #include "WordPuzzle.h" //includes definition of class
-
 #include <stdLib.h> 
 #include <time.h> 
 #include <sstream> 

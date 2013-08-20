@@ -24,10 +24,7 @@ class WordPuzzle {
 	 string asString(); 
 	 string padLeft(string ,int); 
 	 
-	 
-	 
-
-   private:
+ private:
      vector<string> split(string,char); 
      string message; 
 	 vector<vector<vector<int>>> puzzle; 
